@@ -14,3 +14,14 @@ I completed structured labs focused on configuring secure resources, troubleshoo
 The `list_s3_buckets.py` script demonstrates how to connect to AWS using IAM credentials and list available S3 buckets.
 
 > Credentials are **never** stored in code. I used environment variables and IAM best practices.
+
+## Run the Script
+
+1. Install boto3:
+
+
+2. Configure AWS CLI (one time):
+
+
+3. Run:
+
